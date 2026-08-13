@@ -1,39 +1,168 @@
-<h1 align="center">Hi 👋, I'm Md Rahat Ahmed</h1>
-<h3 align="center">Aspiring Data Scientist & Machine Learning Enthusiast from Bangladesh</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahatsd-web&label=Profile%20views&color=0e75b6&style=flat" alt="rahatsd-web" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Rahat%20Ahmed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahatsd-web" alt="rahatsd-web" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Learning+Data+Science+%26+Machine+Learning;Building+Projects+with+Python;Turning+Data+into+Useful+Insights" alt="Typing SVG" />
+</a>
 
-- 🔭 I’m currently working on **Machine Learning & Data Science Projects**
 
-- 🌱 I’m currently learning **Machine Learning Algorithms, Data Visualization, Real-world Dataset Handling and Model Optimization**
+---
 
--💬 Skills & Tools
+## 👋 About Me
 
--  Programming: Python, C
--  Data Science Basics
--  Machine Learning Fundamentals
--  Data Analysis
--  Libraries: NumPy, Pandas, Matplotlib
+Hi! I'm **Rahat Ahmed**, an aspiring **Data Scientist and Machine Learning enthusiast from Bangladesh**.  
+I enjoy learning new technologies, solving problems, working with data, and building intelligent solutions.
 
-- 💬 Projects
+- 🎓 Completed **SSC with GPA 5.00 / 5.00**
+- 🎓 Completed **Diploma with CGPA 3.39 / 4.00**
+- 💡 Developed a strong interest in **technology and problem-solving** during my diploma studies
+- 🤖 Started learning **Data Science and Machine Learning** in my final semester
+- 📚 Completed **3 months of focused learning** in Machine Learning and Data Science
+- 📊 Built my **first prediction model using a real dataset**
+- 🌱 Currently improving my skills through practice and real-world projects
+- 🚀 Goal: Become a skilled **Data Scientist / Machine Learning Engineer**
 
-🔹 First Prediction Model
+---
 
-- Built using a real dataset
-- Learned data preprocessing, model training, and evaluation
+## 🛠️ Tech Stack & Skills
 
- *More projects coming soon...*
+<div align="center">
 
-- 📫 How to reach me **mdrahatahmed9800@gmail.com**
+### Programming Languages
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/" height="30" width="40" /></a>
-</p>
+<img src="https://skillicons.dev/icons?i=python,c" alt="Python and C" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Data Science & Machine Learning
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahatsd-web&show_icons=true&locale=en" alt="rahatsd-web" /></p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Data%20Analysis-1F6FEB?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
+
+</div>
+
+---
+
+## 🧠 Skills
+
+```text
+Python                    ███████░░░  Learning
+C Programming             ██████░░░░  Learning
+Data Analysis             ██████░░░░  Learning
+Machine Learning          █████░░░░░  Learning
+Data Visualization        █████░░░░░  Learning
+Problem Solving           ███████░░░  Improving
+```
+
+---
+
+## 🚀 Projects
+
+### 🔹 First Prediction Model
+
+My first Machine Learning project was built using a real dataset.
+
+**What I practiced:**
+
+- Data collection and dataset understanding
+- Data cleaning and preprocessing
+- Feature preparation
+- Model training
+- Model evaluation
+- Understanding prediction results
+
+> More projects are coming soon as I continue learning and improving my skills.
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| 🤖 Machine Learning | Algorithms and model building |
+| 📊 Data Visualization | Presenting insights clearly |
+| 🧹 Data Processing | Cleaning and preparing real-world datasets |
+| ⚙️ Model Optimization | Improving model performance |
+| 🐍 Python | Writing cleaner and more efficient code |
+| 📈 Data Analysis | Extracting meaningful insights from data |
+
+</div>
+
+---
+
+## 🎤 Seminars & Events
+
+- ☁️ Attended **AWS Cloud Day**
+- 🤖 Participated in **Microsoft AI Connect Summit**
+- 💻 Joined various **technology seminars and events**
+- 📚 Continuously learning from technical communities and industry events
+
+---
+
+## 🎯 Future Goals
+
+- 🚀 Become a skilled **Data Scientist / Machine Learning Engineer**
+- 🧠 Develop strong knowledge of Machine Learning and AI
+- 🌍 Work on **real-world AI and Data Science projects**
+- 🤝 Contribute to **open-source projects**
+- 📊 Build a strong project portfolio
+- 💡 Create impactful solutions using data
+- 📚 Keep learning new technologies and industry practices
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/rahatsd-web">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/rahat-ahmed-5a1aa33b2/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:mdrahatahmed9800@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 My Learning Mindset
+
+> **"Every expert was once a beginner. Keep learning, keep building, and keep improving."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%" />
+
+</div>
