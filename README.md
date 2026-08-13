@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Learning+Data+Science+%26+Machine+Learning;Building+Projects+with+Python;Turning+Data+into+Useful+Insights" alt="Typing SVG" />
 </a>
 
-
 ---
 
 ## 👋 About Me
