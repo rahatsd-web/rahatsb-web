@@ -9,7 +9,22 @@
 
 - 🌱 I’m currently learning **Machine Learning Algorithms, Data Visualization, Real-world Dataset Handling and Model Optimization**
 
-- 💬 Ask me about **Python, C, Machine Learning, Data Analysis, NumPy, Pandas and Matplotlib**
+-💬 Skills & Tools
+
+-  Programming: Python, C
+-  Data Science Basics
+-  Machine Learning Fundamentals
+-  Data Analysis
+-  Libraries: NumPy, Pandas, Matplotlib
+
+- 💬 Projects
+
+🔹 First Prediction Model
+
+- Built using a real dataset
+- Learned data preprocessing, model training, and evaluation
+
+ *More projects coming soon...*
 
 - 📫 How to reach me **mdrahatahmed9800@gmail.com**
 
